@@ -1,2 +1,2 @@
-# drive-client-id-secret
-Getting your Client ID and Secret
+# Google Drive Client ID & Secret & Folder ID
+Getting your Drive Drive Client ID & Secret & Folder ID
